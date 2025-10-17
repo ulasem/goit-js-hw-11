@@ -17,11 +17,11 @@
 }
 
 body {
-  display: flex;
-  flex-direction: column;
-  min-width: 100vw;
-  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #fafafa;
   margin: 0;
+  padding: 20px;
 }
 
 main {
